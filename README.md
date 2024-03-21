@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **pallavithakur7077@gmial.com**
+- 📫 How to reach me **pallavithakur7077@gmail.com**
 
 - ⚡ Fun fact **Your brain is constantly eating itself.**
 
