@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavitahkurxyz&label=Profile%20views&color=0e75b6&style=flat" alt="pallavitahkurxyz" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [github.com/pallavithakurxyz](github.com/pallavithakurxyz)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **pallavithakur7077@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pallavithakurx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pallavithakurx" height="30" width="40" /></a>
+<a href="https://x.com/PallaviThakur_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pallavithakurx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pallavithakurxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallavithakurxyz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pallavithakurx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pallavithakurx" height="30" width="40" /></a>
 </p>
