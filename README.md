@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavitahkurxyz&label=Profile%20views&color=0e75b6&style=flat" alt="pallavitahkurxyz" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [github.com/pallavithakurxyz](github.com/pallavithakurxyz)
 
